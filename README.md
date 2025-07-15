@@ -1,0 +1,2 @@
+# Flexible-3C-Manufacturing-Workshop-Full-Process-Collaborative-Scheduling-System
+This research solves the task scheduling problem of energy minimization in HCPS. It includes three sub-problems: processor allocation, task sequencing and determining the execution frequency of processors. We propose a learning-assisted evolutionary algorithm (LEA) to find reliable and high-quality solutions efficiently.
